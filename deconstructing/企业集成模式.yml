@@ -1,0 +1,15 @@
+# @format
+常量:
+  JMS: Java Messaging System
+  EAI: Enterprise Application Integration 企业应用集成
+  SOA: Service-Oriented Architecture SOA
+  RPC: Remote Procedure Call  远程过程调用
+  RMI: Remote Method Invocation 远程方法调用
+
+title: 《企业集成模式》 by 格雷戈尔·霍克佩
+异构系统:
+「应用分布」和「应用集成」的关系与区别: 「应用分布」即使是在多台机器上，他们的通信系统也是耦合的；集成的应用都是独立的应用。一句话，「队友」和「盟友」的区别。
+tips: 共享的业务功能一般称为服务。
+思考:
+  「消息系统」和「循环系统」的共同点和区别:
+  消息传递的过程，基本就是: HOOKS
